@@ -8,6 +8,8 @@ def main():
 
     # add database connection
 
+    print(bbb)
+
 if __name__ == "__main__":
     main()
 
