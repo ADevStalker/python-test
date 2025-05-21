@@ -1,7 +1,7 @@
 def main():
     abc = "12321312312"
 
-    bbb = abc + "dsfdfsdfsxf"
+    bbb = abc.lower() + "dsfdfsdfsxf"
 
     print("Hello, World!")
     print("Hello, World!")
